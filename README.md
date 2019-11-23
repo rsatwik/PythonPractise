@@ -1,2 +1,2 @@
 # Python_Practise
-This repository contains python codes for practise and additional observations on the working of the pyhton codes
+This repository contains programs written in python language for practise. Additional observations on the working of the programs have been added as comments.

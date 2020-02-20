@@ -1,3 +1,5 @@
+import os
+os.system('cls')
 # reference: https://web.stanford.edu/class/cs231a/section/section1.pdf
 # Lists
 empty_list = list()
